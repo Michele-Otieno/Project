@@ -1,0 +1,1 @@
+A Java application using Blowfish encryption to securely transmit data. Ciphertext was emailed to the recipient, while an OTP was sent via SMS. The recipient used the OTP and ciphertext to decrypt and recover the plaintext, ensuring secure delivery and recipient validation.
